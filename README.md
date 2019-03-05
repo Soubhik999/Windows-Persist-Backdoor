@@ -17,20 +17,4 @@ Using this tool is to violating the user rights so i am not responsible of your 
 * Creator:Soubhik Biswas
 * Email  :2soubhikbiswas@gmail.com
 * GitHub :Soubhik999
-<style>
-.note+p { /*next paragraph after <div class="note"></div>*/
-    padding: 8px 35px 8px 14px;
-    margin-bottom: 20px;
-    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
-    border-radius: 4px;
-    color: #3a87ad;
-    background-color: #d9edf7;
-    border-color: #bce8f1;
-}
-
-.note+p:before { /*aditionally prepend `⚠ Note:` to message: */ 
-    content: "⚠ Note:";
-    font-weight: bold;
-    display: block;
-}
-</style>
+just
