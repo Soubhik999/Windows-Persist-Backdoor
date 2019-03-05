@@ -13,7 +13,7 @@ When the Backdoor the run for the first time it copies it self to the StartUp di
 ### Warning:
 Using this tool is to violating the user rights so i am not responsible of your good and bad usage of the Backdoor
 
-### Credits
-Soubhik Biswas
-* Email  :2soubhikbiswas@gmail.com
-* GitHub :Soubhik999
+### Credits:
+* Soubhik Biswas
+  Email  :2soubhikbiswas@gmail.com
+  GitHub :Soubhik999
